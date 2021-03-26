@@ -33,15 +33,15 @@
       },
       {
         "title": "Features",
-        "image": "https://raw.githubusercontent.com/wombo/blob/main/images/5-coppy.png"
+        "image": "https://raw.githubusercontent.com/yasseelle/wombo/main/images/5-coppy.png"
       },
       {
         "title": "Is Wombo Safe",
-        "image": "https://raw.githubusercontent.com/wombo/main/images/images%20-%20Copy.jpg"
+        "image": "https://raw.githubusercontent.com/yasseelle/wombo/main/images/images%20-%20Copy.jpg"
       },
       {
         "title": "Errors",
-        "image": "https://raw.githubusercontent.com/wombo/main/images/2%20-%20Copy.jpg"
+        "image": "https://raw.githubusercontent.com/yasseelle/wombo/main/images/2%20-%20Copy.jpg"
       }
     
     ],
@@ -89,7 +89,7 @@
         "gravity": "left",
         "left": "5",
         "text_size": "20",
-        "isLink": "true","Link title": "Install / Open Wombo","setLink": "com.womboai.wombo",
+        "isLink": "true","link_title": "Install / Open Wombo","setLink": "com.womboai.wombo",
         "image_link": "https://raw.githubusercontent.com/yasseelle/wombo/main/images/6-coppy.jpg",
         "text": "Open the Android emulator's application list and add HappyMod. apk file to the list. Now, open the Happy Mod application on your PC using the Android emulator. Install the app and start downloading mods.\n\n-First, you must give permission for third-party apps to be installed on your device; open Settings > Security\n\n-Find and enable the Unknown Sources option and close settings.\n\n-Now you can download the HappyMod APK to your device, using the download button above.\n\n-Ignore the security prompt and tap on OK.\n\n-Go to your downloads folder and tap on the file.\n\n-When the installation is finished, HappyMod is ready for use.",
         "isNative": "true"
@@ -115,7 +115,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/yasseelle/wombo/main/images/2%20-%20Copy.jpg",
+        "image_link": "https://raw.githubusercontent.com//yasseelle/wombo/main/images/2%20-%20Copy.jpg",
         "text": "Tap on the app icon to open HappyMod, it will look like an app store, and all the content is in categories, such as Mods, Apps, Tools, etc.\n\n-Choose the category, find a mod, and tap on it to start the download.\n\n-Another window would show you all the latest additions.\n\n-HappyMod is the latest in a long line of unofficial app stores, but this one is a little different from the others. HappyMod offers a whole host of apps and games, all modified, providing premium features and subscriptions for free, and loads of other features and functionalities. HappyMod is only available for Android users right now and is very simple to download.",
         "isNative": "true"
       
@@ -165,7 +165,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/yasseelle/wombo/main/images/images%20-%20Copy.jpg",
+        "image_link": "https://raw.githubusercontent.com/yasseelle/wombo/main/images/5-coppy.png",
         "text": "The developers of HappyMod use good old fashioned testing and AI to ensure that mods are safe to use. Every mod that is uploaded to the catalog is there for users to test, and the developers only ask that you comment on how good the mod is, whether there are any problems, what doesn’t work and what can be improved. They then use those comments to move the best mods to the top of the list. You can help by testing mods and telling everyone what you think of them and by uploading any mods that you find too.\n\nThe HappyMod developers put a lot of work and effort into ensuring you get a safe and happy experience – do only use the official download links though; they have been tested for security.",
         "isNative": "true"
       
@@ -190,7 +190,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/yasseelle/wombo/blob/main/images/1%20-%20Copy.png",
+        "image_link": "https://raw.githubusercontent.com/yasseelle/wombo/main/images/2%20-%20Copy.jpg",
         "text": "If you are using an android phone for quite some time, you must have encountered errors related to android ui while installing an app, or after you performed a system UI update at least once, the error goes something like this: Unfortunately, System UI has stopped .The error is very common and can have various causes.\n\nThis error is also very common with your android operating system update and upgrades, you must have seen errors like, system ui kitkat error, unfortunately system ui has stopped marshmallow or error lollipop system ui could not be updated.",
         "isNative": "true"
       
