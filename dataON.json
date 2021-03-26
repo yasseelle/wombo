@@ -21,23 +21,23 @@
     "items": [
       {
         "title": "Wombo",
-        "image": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/Happymod.jpg"
+        "image": "https://github.com/yasseelle/wombo/blob/main/images/1%20-%20Copy.png"
       },
       {
         "title": "How to install Wombo",
-        "image": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20install%20happymod.jpg"
+        "image": "https://github.com/yasseelle/wombo/blob/main/images/6-coppy.jpg"
       },
       {
         "title": "How to Use Wombo",
-        "image": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20Use%20HappyMod.jpg"
+        "image": "https://github.com/yasseelle/wombo/blob/main/images/2%20-%20Copy.jpg"
       },
       {
         "title": "Features",
-        "image": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/Features.jpg"
+        "image": "https://github.com/yasseelle/wombo/blob/main/images/5-coppy.png"
       },
       {
         "title": "Is Wombo Safe",
-        "image": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/Is%20HappyMod%20Safe.png"
+        "image": "https://github.com/yasseelle/wombo/blob/main/images/images%20-%20Copy.jpg"
       },
       {
         "title": "Errors",
@@ -65,7 +65,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/Happymod.jpg",
+        "image_link": "https://github.com/yasseelle/wombo/blob/main/images/1%20-%20Copy.png",
         "text": "WOMBO is the world's best AI-powered lip sync app. Take a selfie, pick a song, and let WOMBO work its magic. All you have to do is add a selfie, pick a song, and let WOMBO work its magic. The result? Videos that are hilarious, bizarre, fun, and ready to go viral. No singing lessons required.",
         "isNative": "true"
       
@@ -89,8 +89,8 @@
         "gravity": "left",
         "left": "5",
         "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20install%20happymod.jpg",
+        "isLink": "true","Link title": "Install / Open Wombo","setLink": "com.womboai.wombo",
+        "image_link": "https://github.com/yasseelle/wombo/blob/main/images/6-coppy.jpg",
         "text": "Open the Android emulator's application list and add HappyMod. apk file to the list. Now, open the Happy Mod application on your PC using the Android emulator. Install the app and start downloading mods.\n\n-First, you must give permission for third-party apps to be installed on your device; open Settings > Security\n\n-Find and enable the Unknown Sources option and close settings.\n\n-Now you can download the HappyMod APK to your device, using the download button above.\n\n-Ignore the security prompt and tap on OK.\n\n-Go to your downloads folder and tap on the file.\n\n-When the installation is finished, HappyMod is ready for use.",
         "isNative": "true"
       
@@ -115,7 +115,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20Use%20HappyMod.jpg",
+        "image_link": "https://github.com/yasseelle/wombo/blob/main/images/2%20-%20Copy.jpg",
         "text": "Tap on the app icon to open HappyMod, it will look like an app store, and all the content is in categories, such as Mods, Apps, Tools, etc.\n\n-Choose the category, find a mod, and tap on it to start the download.\n\n-Another window would show you all the latest additions.\n\n-HappyMod is the latest in a long line of unofficial app stores, but this one is a little different from the others. HappyMod offers a whole host of apps and games, all modified, providing premium features and subscriptions for free, and loads of other features and functionalities. HappyMod is only available for Android users right now and is very simple to download.",
         "isNative": "true"
       
@@ -140,7 +140,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/Features.jpg",
+        "image_link": "https://github.com/yasseelle/wombo/blob/main/images/5-coppy.png",
         "text": "All the Latest Mods – loads of mods for Android.\n\nSafe and Fast – every mod is tested with a virus scanner before going into the app catalog to make sure it is safe, and you get to take advantage of superfast downloads.\n\nMultiple Languages – HappyMod has support for multiple languages, including Romanian, French, English, traditional and simplified Chinese, Portuguese, Arabic, Indonesian, Russian, Spanish, Italian, Vietnamese, Thai and German.\n\nStop and Start – any download can be paused and restarted whenever you want.",
         "isNative": "true"
       
@@ -165,7 +165,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/Is%20HappyMod%20Safe.png",
+        "image_link": "https://github.com/yasseelle/wombo/blob/main/images/images%20-%20Copy.jpg",
         "text": "The developers of HappyMod use good old fashioned testing and AI to ensure that mods are safe to use. Every mod that is uploaded to the catalog is there for users to test, and the developers only ask that you comment on how good the mod is, whether there are any problems, what doesn’t work and what can be improved. They then use those comments to move the best mods to the top of the list. You can help by testing mods and telling everyone what you think of them and by uploading any mods that you find too.\n\nThe HappyMod developers put a lot of work and effort into ensuring you get a safe and happy experience – do only use the official download links though; they have been tested for security.",
         "isNative": "true"
       
@@ -190,7 +190,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20Use%20HappyMod.jpg",
+        "image_link": "https://github.com/yasseelle/wombo/blob/main/images/1%20-%20Copy.png",
         "text": "If you are using an android phone for quite some time, you must have encountered errors related to android ui while installing an app, or after you performed a system UI update at least once, the error goes something like this: Unfortunately, System UI has stopped .The error is very common and can have various causes.\n\nThis error is also very common with your android operating system update and upgrades, you must have seen errors like, system ui kitkat error, unfortunately system ui has stopped marshmallow or error lollipop system ui could not be updated.",
         "isNative": "true"
       
