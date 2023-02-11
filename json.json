@@ -1,7 +1,7 @@
 [
 
 {
-    "path": "Unity.mp3",
+    "path": "https://github.com/yasseelle/wombo/raw/main/Song%20one.mp3",
     "name": "Unity - TheFatRat",
     "bmp": 106,
     "startTime": 0.05,
@@ -12,7 +12,7 @@
     "theme": 1
   },
   {
-    "path": "Song one.mp3",
+    "path": "https://github.com/yasseelle/wombo/raw/main/Song%20two.mp3",
     "name": "Song one",
     "bmp": 105,
     "startTime": 0.58,
