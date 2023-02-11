@@ -1,6 +1,6 @@
 [
   {
-    "path": "http://github.com/yasseelle/wombo/raw/main/Song%20one.mp3",
+    "path": "Song%20one.mp3",
     "name": "Song one",
     "bmp": 105,
     "startTime": 0.58,
@@ -10,7 +10,7 @@
     "tags": null
   },
   {
-    "path": "http://github.com/yasseelle/wombo/raw/main/Song%20two.mp3",
+    "path": "Song%20two.mp3",
     "name": "Song two",
     "bmp": 105,
     "startTime": 0.58,
@@ -21,7 +21,7 @@
   },
 
   {
-    "path": "http://github.com/yasseelle/wombo/raw/main/SunnyDay_Electrojam.mp3",
+    "path": "SunnyDay_Electrojam.mp3",
     "name": "Sunny Day",
     "bmp": 100,
     "startTime": 1,
@@ -31,7 +31,7 @@
     "tags": null
   },
    {
-    "path": "http://github.com/yasseelle/wombo/raw/main/TheDubSteps_FASSounds.mp3",
+    "path": "TheDubSteps_FASSounds.mp3",
     "name": "TheDubSteps",
     "bmp": 100,
     "startTime": 1,
