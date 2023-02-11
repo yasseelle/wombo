@@ -1,0 +1,94 @@
+[
+  {
+    "path": "http://github.com/yasseelle/wombo/raw/main/Song%20one.mp3",
+    "name": "Song one",
+    "bmp": 105,
+    "startTime": 0.58,
+    "diamonds": 30,
+    "type": "OPEN",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "http://github.com/yasseelle/wombo/raw/main/Song%20two.mp3",
+    "name": "Song two",
+    "bmp": 105,
+    "startTime": 0.58,
+    "diamonds": 30,
+    "type": "OPEN",
+    "version": 0,
+    "tags": null
+  },
+
+  {
+    "path": "http://github.com/yasseelle/wombo/raw/main/SunnyDay_Electrojam.mp3",
+    "name": "Sunny Day",
+    "bmp": 100,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 0,
+    "tags": null
+  },
+   {
+    "path": "http://github.com/yasseelle/wombo/raw/main/TheDubSteps_FASSounds.mp3",
+    "name": "TheDubSteps",
+    "bmp": 100,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 0,
+    "tags": null
+  },
+    {
+    "path": "ThisisEDM.mp3",
+    "name": "ThisisEDM",
+    "bmp": 100,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 0,
+    "tags": null
+  },
+    {
+    "path": "Time_Lapse.mp3",
+    "name": "Time Lapse",
+    "bmp": 100,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 0,
+    "tags": null
+  },
+      {
+    "path": "Timeflies.mp3",
+    "name": "Time flies",
+    "bmp": 100,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 0,
+    "tags": null
+  },
+        {
+    "path": "strawberry.mp3",
+    "name": "strawberry",
+    "bmp": 100,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 0,
+    "tags": null
+  },
+
+  {
+    "path": "sunflowerday.mp3",
+    "name": "Future Sport",
+    "bmp": 150,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  }
+]
