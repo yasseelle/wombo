@@ -1,0 +1,43 @@
+[
+  {
+    "path": "Song one.mp3",
+    "name": "Song one",
+    "bmp": 105,
+    "startTime": 0.58,
+    "diamonds": 30,
+    "type": "OPEN",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "Song two.mp3",
+    "name": "Song two",
+    "bmp": 105,
+    "startTime": 0.58,
+    "diamonds": 30,
+    "type": "OPEN",
+    "version": 0,
+    "tags": null
+  },
+
+  {
+    "path": "SunnyDay_Electrojam.mp3",
+    "name": "Sunny Day",
+    "bmp": 100,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "OPEN",
+    "version": 0,
+    "tags": null
+  },
+   {
+    "path": "TheDubSteps_FASSounds.mp3",
+    "name": "TheDubSteps",
+    "bmp": 100,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "OPEN",
+    "version": 0,
+    "tags": null
+  }
+]
